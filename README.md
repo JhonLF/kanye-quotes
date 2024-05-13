@@ -44,7 +44,6 @@ A simple Python application that displays random Kanye West quotes using Tkinter
 
 - This project utilizes the [Kanye.rest](https://kanye.rest/) API for fetching Kanye West quotes.
 - Background image by [Unsplash](https://unsplash.com/).
-- Kanye image by [Your Favorite Repository](https://yourfavoriterepository.com/).
 
 ## License
 
